@@ -161,6 +161,13 @@
           "size" : 655500000
         }
       ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.game-center",
+          "com.apple.developer.icloud-container-identifiers",
+          "com.apple.developer.ubiquity-kvstore-identifier"
+        ]
+      },
       "beta" : false
     },
     {
