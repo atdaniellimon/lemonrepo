@@ -2,14 +2,14 @@
   "name" : "Lemon's library",
   "identifier" : "com.moke.lemonrepo",
   "subtitle" : "Lemon's official repo.",
-  "description" : "LemonRepo is a curated library of high-quality iOS apps and games, focused on performance, stability, and real-world usability.\nNo clutter. No junk. Just the essentials.",
+  "description" : "LemonRepo is a curated library of high-quality iOS apps and games, focused on performance, stability, and real-world usability.\n\nNo clutter. No junk. Just the essentials.",
   "iconURL" : "https://raw.githubusercontent.com/d4nilin0n-hue/lemonrepo/refs/heads/main/icon.png",
   "headerURL" : "https://i.imgur.com/stTk5jP.jpeg",
   "website" : "https://github.com/d4nilin0n-hue/",
   "tintColor" : "FFD95A",
   "featuredApps" : [
     "com.mojang.minecraftpe",
-    "com.delta.roblox",
+    "com.playdeadgames.inside",
     "com.rockstar.gta3",
     "com.spaceape.beatstar"
   ],
@@ -200,12 +200,22 @@
     {
       "title" : "Welcome to Lemon's Library!",
       "identifier" : "lemon-welcome",
-      "caption" : "This is the repo you wished your entire life.",
+      "caption" : "Essential apps. Thoughtfully selected.",
       "date" : "2026-03-10",
       "tintColor" : "E2E204",
       "imageURL" : "https://raw.githubusercontent.com/d4nilin0n-hue/lemonrepo/refs/heads/main/icon.png",
       "appID" : "lorem",
       "notify" : true
+    },
+    {
+        "title": "Editor's choice",
+        "identifier": "com.playdeadgames.inside",
+        "caption": "Atmospheric, unsettling, unforgettable. Play INSIDE.",
+        "date": "2025-03-09",
+        "tintColor": "5E5CE6",
+        "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/eb/5f/d8eb5f59-8423-6d17-e9cb-d119b8f83c69/Placeholder.mill/400x400bb-75.webp",
+        "appID": "com.playdeadgames.inside",
+        "notify": true
     }
   ]
 }
