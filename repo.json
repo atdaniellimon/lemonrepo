@@ -8,7 +8,7 @@
   "website" : "https://github.com/d4nilin0n-hue/",
   "tintColor" : "FFD95A",
   "featuredApps" : [
-    "com.spotify.client",
+    "com.mojang.minecraftpe",
     "com.burbn.instagram",
     "com.google.ios.youtube",
     "com.box.hd.flix.drama.hub",
@@ -36,41 +36,7 @@
         
       ],
       "appPermissions" : {
-        "entitlements" : [
-          "com.apple.security.application-groups",
-          "com.apple.developer.associated-domains",
-          "com.apple.developer.driverkit.allow-third-party-userclients",
-          "com.apple.developer.healthkit.background-delivery",
-          "com.apple.developer.ubiquity-container-identifiers",
-          "com.apple.developer.user-fonts",
-          "com.apple.developer.usernotifications.communication",
-          "com.apple.developer.usernotifications.time-sensitive",
-          "com.apple.developer.game-center",
-          "com.apple.developer.healthkit.recalibrate-estimates",
-          "com.apple.developer.healthkit",
-          "com.apple.developer.homekit",
-          "com.apple.developer.networking.HotspotConfiguration",
-          "com.apple.developer.icloud-container-development-container-identifiers",
-          "com.apple.developer.icloud-container-identifiers",
-          "com.apple.developer.ubiquity-kvstore-identifier",
-          "com.apple.developer.icloud-services",
-          "com.apple.developer.networking.networkextension",
-          "com.apple.developer.pass-type-identifiers",
-          "com.apple.developer.networking.vpn.api",
-          "aps-environment",
-          "com.apple.developer.healthkit.access",
-          "com.apple.developer.applesignin",
-          "com.apple.developer.siri",
-          "com.apple.developer.weatherkit",
-          "keychain-access-groups"
-        ],
-        "privacy" : {
-          "NSCameraUsageDescription" : "App uses the camera for capturing photos or videos.",
-          "NSLocationWhenInUseUsageDescription" : "App uses location when on app.",
-          "NSMicrophoneUsageDescription" : "App uses the microphone to record audio.",
-          "NSPhotoLibraryUsageDescription" : "App accesses the user's photo library.",
-          "NSUserTrackingUsageDescription" : "App tracks user activity for advertising purposes."
-        }
+        
       },
       "beta" : false
     },
