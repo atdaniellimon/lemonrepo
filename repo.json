@@ -53,7 +53,7 @@
       "subtitle" : "Roblox' delta executor!",
       "localizedDescription" : "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.\n\n• And more!",
       "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/d9/fc/b4d9fc91-b318-ab14-4d2c-f6e067afb081/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/400x400ia-75.webp",
-      "tintColor" : "030303",
+      "tintColor" : "0c63f9",
       "category" : "Games",
       "screenshotURLs" : [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/20/e6/2c/20e62c34-73ac-46d0-576f-815d22f82736/ASO_Q1_26_Default_EEAO_2602_Apple_iPhone_SC1-B.jpg/460x998bb.webp",
@@ -80,11 +80,11 @@
     {
       "name" : "Beastar",
       "bundleIdentifier" : "com.spaceape.beatstar",
-      "developerName" : "Michael Lema",
+      "developerName" : "Beatclone mod devs",
       "subtitle" : "Touch your music.",
       "localizedDescription" : "Touch your music.",
-      "iconURL" : "https://img.ipa4fun.com/92/c2/a0/284882215-logo.webp",
-      "tintColor" : "0c63f9",
+      "iconURL" : "https://d1nxzqpcg2bym0.cloudfront.net/google_play/com.spaceapegames.beatstar/b96a15f8-f85f-11ec-9b71-3b3b298e6fb6/128x128",
+      "tintColor" : "#0c63f9",
       "category" : "Social",
       "screenshotURLs" : [
         "https://img.ipa4fun.com/92/c2/a0/284882215-screenshot-1.webp",
