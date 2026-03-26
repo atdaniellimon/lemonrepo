@@ -171,6 +171,38 @@
       "beta" : false
     },
     {
+      "name" : "TikTok",
+      "bundleIdentifier" : "com.zhiliaoapp.musically",
+      "developerName" : "TikTok Ltd.",
+      "subtitle" : "Trends start here.",
+      "localizedDescription" : "Discover videos from around the world and create your own with easy-to-use tools to capture your life, now withouth ads, downloadable videos & music and more.",
+      "iconURL" : "https://img.ipa4fun.com/06/ac/ac/835599320-logo.webp",
+      "tintColor" : "0b0b0b",
+      "category" : "Social",
+      "screenshotURLs" : [
+        "https://i.imgur.com/PMPlQVa.jpeg",
+        "https://i.imgur.com/YN0hG8M.jpeg",
+        "https://i.imgur.com/pmXZBpB.jpeg",
+        "https://i.imgur.com/bia0rue.jpeg",
+        "https://i.imgur.com/tJtEO1r.jpeg"
+      ],
+      "version" : "38.7.0",
+      "versionDate" : "2025-03-04",
+      "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/apps/tiktok.ipa",
+      "versionDescription" : "Updated TikTok",
+      "size" : 226000000,
+      "versions" : [
+        {
+          "version" : "38.7.0",
+          "date" : "2025-03-04",
+          "localizedDescription" : "Updated TikTok",
+          "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/tiktok.ipa",
+          "size" : 226000000
+        }
+      ],
+      "beta" : false
+    },
+    {
       "name" : "YouTube",
       "bundleIdentifier" : "com.google.ios.youtube",
       "developerName" : "Google",
