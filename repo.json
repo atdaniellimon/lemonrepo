@@ -9,9 +9,9 @@
   "tintColor" : "FFD95A",
   "featuredApps" : [
     "com.mojang.minecraftpe",
-    "com.playdeadgames.inside",
+    "com.playdeadgames.inside.ios",
     "com.rockstar.gta3",
-    "com.spaceape.beatstar"
+    "com.beatclone.beatstar"
   ],
   "apps" : [
     {
@@ -75,7 +75,7 @@
     },
     {
       "name" : "Beatstar",
-      "bundleIdentifier" : "com.spaceape.beatstar",
+      "bundleIdentifier" : "com.beatclone.beatstar",
       "developerName" : "Spaceape",
       "subtitle" : "Touch your music.",
       "localizedDescription" : "Touch your music.",
@@ -133,7 +133,7 @@
     },
     {
       "name" : "Playdead's INSIDE",
-      "bundleIdentifier" : "com.playdeadgames.inside",
+      "bundleIdentifier" : "com.playdeadgames.inside.ios",
       "developerName" : "Playdead",
       "subtitle" : "From the creators of LIMBO",
       "localizedDescription" : "Hunted and alone, a boy finds himself drawn into the centre of a dark project. Discover Playdead's unique indie adventure game Inside, a dark, narrative-driven platformer combining intense action with challenging puzzles. It has received critical acclaim for its moody art style, ambient soundtrack and unsettling atmosphere. Apple Design Award Winner. What the press said: “MASTERPIECE! Inside is a 2D puzzle platformer that builds upon what made Limbo great, and in fact builds something greater.” IGN — 10/10 “Inside expands on the concepts and scope of its predecessor in wildly creative ways, and it's so immaculately designed and constructed from top to bottom that it almost feels suitable for display in an art museum. This is one hell of a follow-up.” Giant Bomb — 5/5 “Gorgeous art and animations, devious puzzle design and a pitch-black sense of humor. A perfectly paced series of escalating \"holy shit\" moments.” Kotaku Winner of more than 100 awards, including: - Artistic Achievement (BAFTA) - Game Design (BAFTA) - Narrative (BAFTA) - Original Property (BAFTA) - Best Independent Game (Game Critics Awards) - Best Independent Game (The Game Awards) - Best Art Direction (The Game Awards) - Spite Award (D.I.C.E. Awards) - Outstanding Achievement in Art Direction (D.I.C.E. Awards) - Outstanding Achievement in Game Direction (D.I.C.E. Awards) - Best Audio (Game Developers Choice Awards) - Best Visual Art (Game Developers Choice Awards)",
@@ -209,12 +209,12 @@
     },
     {
         "title": "Editor's Choice",
-        "identifier": "com.playdeadgames.inside",
+        "identifier": "com.playdeadgames.inside.ios",
         "caption": "Atmospheric, unsettling, unforgettable. Play INSIDE.",
         "date": "2026-03-09",
         "tintColor": "5E5CE6",
         "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/eb/5f/d8eb5f59-8423-6d17-e9cb-d119b8f83c69/Placeholder.mill/400x400bb-75.webp",
-        "appID": "com.playdeadgames.inside",
+        "appID": "com.playdeadgames.inside.ios",
         "notify": true
     }
   ]
