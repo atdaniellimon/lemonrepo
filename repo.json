@@ -2,7 +2,7 @@
   "name" : "Lemon's library",
   "identifier" : "com.moke.lemonrepo",
   "subtitle" : "Lemon's official repo.",
-  "description" : "LemonRepo delivers a clean selection of high-quality IPAs designed for performance, functionality, and everyday usability. Instead of overwhelming users with hundreds of apps, it prioritises a refined experience with only the most useful and reliable choices.",
+  "description" : "LemonRepo is a curated library of high-quality iOS apps and games, focused on performance, stability, and real-world usability.\nNo clutter. No junk. Just the essentials.",
   "iconURL" : "https://raw.githubusercontent.com/d4nilin0n-hue/lemonrepo/refs/heads/main/icon.png",
   "headerURL" : "https://i.imgur.com/stTk5jP.jpeg",
   "website" : "https://github.com/d4nilin0n-hue/",
