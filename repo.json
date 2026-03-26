@@ -767,7 +767,7 @@
       "caption" : "This is the repo you wished your entire life.",
       "date" : "2026-03-10",
       "tintColor" : "#e2e204",
-      "imageURL" : "lorem",
+      "imageURL" : "https://raw.githubusercontent.com/d4nilin0n-hue/lemonrepo/refs/heads/main/icon.png",
       "appID" : "lorem",
       "notify" : true
     }
