@@ -194,6 +194,36 @@
         }
       ],
       "beta" : false
+    },
+    {
+      "name" : "Flappy Bird",
+      "bundleIdentifier" : "org.brandonplank.flappybird",
+      "developerName" : "Brandon Plank",
+      "subtitle" : "Flappy Bird revived.",
+      "localizedDescription" : "A revival of the once popular game.",
+      "iconURL" : "https://i.imgur.com/tIUJeSs.png",
+      "tintColor" : "49CC48",
+      "category" : "Games",
+      "screenshotURLs" : [
+        "https://i.imgur.com/nIq1VVv.png",
+        "https://i.imgur.com/TZBdg7M.png",
+        "https://i.imgur.com/41u9JUh.png"
+      ],
+      "version" : "4.3",
+      "versionDate" : "2026-03-10",
+      "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/flappybird.ipa",
+      "versionDescription" : "Various bug fixes!",
+      "size" : 1200000000,
+      "versions" : [
+        {
+          "version" : "4.3",
+          "date" : "2026-03-10",
+          "localizedDescription" : "Various bug fixes!",
+          "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/flappybird.ipa",
+          "size" : 1200000000
+        }
+      ],
+      "beta" : false
     }
   ],
   "news" : [
