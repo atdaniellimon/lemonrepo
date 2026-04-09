@@ -5,7 +5,7 @@
   "description" : "LemonRepo is a curated library of high-quality iOS apps and games, focused on performance, stability, and real-world usability.\n\nNo clutter. No junk. Just the essentials.",
   "iconURL" : "https://raw.githubusercontent.com/d4nilin0n-hue/lemonrepo/refs/heads/main/icon.png",
   "headerURL" : "https://i.imgur.com/stTk5jP.jpeg",
-  "website" : "https://github.com/d4nilin0n-hue/",
+  "website" : "https://github.com/atdaniellimon/",
   "tintColor" : "FFD95A",
   "featuredApps" : [
     "com.mojang.minecraftpe",
@@ -28,7 +28,7 @@
       ],
       "version" : "1.21.131",
       "versionDate" : "2026-03-10",
-      "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/minecraft.ipa",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/minecraft.ipa",
       "versionDescription" : "Various bug fixes!",
       "size" : 1200000000,
       "versions" : [
@@ -36,7 +36,7 @@
           "version" : "1.21.131",
           "date" : "2025-03-10",
           "localizedDescription" : "Various bug fixes!",
-          "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/minecraft.ipa",
+          "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/minecraft.ipa",
           "size" : 1200000000
         }
       ],
@@ -59,7 +59,7 @@
       ],
       "version" : "2.711.871",
       "versionDate" : "2025-03-04",
-      "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/roblox.ipa",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/roblox.ipa",
       "versionDescription" : "Bug fixes",
       "size" : 235000000,
       "versions" : [
@@ -67,7 +67,7 @@
           "version" : "2.711.871",
           "date" : "2025-03-04",
           "localizedDescription" : "Bug fixes",
-          "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/roblox.ipa",
+          "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/roblox.ipa",
           "size" : 235000000
         }
       ],
@@ -87,7 +87,7 @@
       ],
       "version" : "36.1.4",
       "versionDate" : "2025-03-04",
-      "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/Beatclone.ipa",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/Beatclone.ipa",
       "versionDescription" : "Beatstar revival build",
       "size" : 167000000,
       "versions" : [
@@ -95,7 +95,7 @@
           "version" : "36.1.4",
           "date" : "2025-03-04",
           "localizedDescription" : "Beatstar revival build",
-          "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/Beatclone.ipa",
+          "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/Beatclone.ipa",
           "size" : 167000000
         }
       ],
@@ -117,7 +117,7 @@
       ],
       "version" : "1.0",
       "versionDate" : "2025-03-04",
-      "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/gtaiii.ipa",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/gtaiii.ipa",
       "versionDescription" : "General fixes and improvements.",
       "size" : 190000000,
       "versions" : [
@@ -125,7 +125,7 @@
           "version" : "1.0",
           "date" : "2025-03-04",
           "localizedDescription" : "General fixes and improvements.",
-          "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/gtaiii.ipa",
+          "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/gtaiii.ipa",
           "size" : 190000000
         }
       ],
@@ -149,7 +149,7 @@
       ],
       "version" : "1.1.9",
       "versionDate" : "2025-03-04",
-      "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/inside.ipa",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/inside.ipa",
       "versionDescription" : "Bug fixes",
       "size" : 655500000,
       "versions" : [
@@ -157,7 +157,7 @@
           "version" : "1.1.9",
           "date" : "2025-03-04",
           "localizedDescription" : "Bug fixes",
-          "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/inside.ipa",
+          "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/inside.ipa",
           "size" : 655500000
         }
       ],
@@ -191,7 +191,7 @@
       ],
       "version" : "1.2.2",
       "versionDate" : "2026-03-04",
-      "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/LIMBO.ipa",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/LIMBO.ipa",
       "versionDescription" : "Bug fixes",
       "size" : 655500000,
       "versions" : [
@@ -199,7 +199,7 @@
           "version" : "1.2.2",
           "date" : "2026-03-04",
           "localizedDescription" : "Bug fixes",
-          "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/LIMBO.ipa",
+          "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/LIMBO.ipa",
           "size" : 655500000
         }
       ],
@@ -230,7 +230,7 @@
       ],
       "version" : "38.7.0",
       "versionDate" : "2025-03-04",
-      "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/apps/tiktok.ipa",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/apps/tiktok.ipa",
       "versionDescription" : "Updated TikTok",
       "size" : 226000000,
       "versions" : [
@@ -238,7 +238,7 @@
           "version" : "38.7.0",
           "date" : "2025-03-04",
           "localizedDescription" : "Updated TikTok",
-          "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/tiktok.ipa",
+          "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/tiktok.ipa",
           "size" : 226000000
         }
       ],
@@ -262,7 +262,7 @@
       ],
       "version" : "20.09.3",
       "versionDate" : "2025-03-04",
-      "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/apps/YouTubeEnhanced.ipa",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/apps/YouTubeEnhanced.ipa",
       "versionDescription" : "YouTube updated to v19.39.1",
       "size" : 76600000,
       "versions" : [
@@ -270,7 +270,7 @@
           "version" : "20.09.3",
           "date" : "2025-03-04",
           "localizedDescription" : "YouTube updated to v19.39.1",
-          "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/apps/YouTubeEnhanced.ipa",
+          "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/apps/YouTubeEnhanced.ipa",
           "size" : 106000000
         }
       ],
@@ -292,7 +292,7 @@
       ],
       "version" : "4.3",
       "versionDate" : "2026-03-10",
-      "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/flappybird.ipa",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/flappybird.ipa",
       "versionDescription" : "Various bug fixes!",
       "size" : 1200000000,
       "versions" : [
@@ -300,7 +300,7 @@
           "version" : "4.3",
           "date" : "2026-03-10",
           "localizedDescription" : "Various bug fixes!",
-          "downloadURL" : "https://media.githubusercontent.com/media/d4nilin0n-hue/lemonrepo/refs/heads/main/ipas/games/flappybird.ipa",
+          "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/flappybird.ipa",
           "size" : 1200000000
         }
       ],
@@ -314,7 +314,7 @@
       "caption" : "Essential apps. Thoughtfully selected.",
       "date" : "2026-03-10",
       "tintColor" : "E2E204",
-      "imageURL" : "https://raw.githubusercontent.com/d4nilin0n-hue/lemonrepo/refs/heads/main/icon.png",
+      "imageURL" : "https://raw.githubusercontent.com/atdaniellimon/lemonrepo/refs/heads/main/icon.png",
       "appID" : "lorem",
       "notify" : true
     },
