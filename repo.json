@@ -305,6 +305,90 @@
         }
       ],
       "beta" : false
+    },
+    {
+      "name" : "Snake.io+",
+      "bundleIdentifier" : "com.kooapps.snakearcade",
+      "developerName" : "Kooapps",
+      "subtitle" : "Fun Battle Royale Arcade Game",
+      "localizedDescription" : "A revival of the once popular game.",
+      "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/db/94/7bdb94f9-a6a1-7975-b719-3b7c84f93644/Placeholder.mill/400x400bb-75.webp",
+      "tintColor" : "49CC48",
+      "category" : "Games",
+      "screenshotURLs" : [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f7/51/83/f7518343-3624-eefc-a7b6-c02b71e06def/bb2b498c-2723-4e32-93c8-3b52d38742f4_1.png/626x290bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/67/22/d2/6722d251-f2e3-cbc5-d314-9d600b18e441/b51139ae-80f6-41e7-9655-70e2143adff0_2.png/626x290bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/54/48/32/544832c5-2b05-fbbc-b3ce-0998b044b665/9bf9e4e5-2c19-4ba1-a572-956a754ee18e_5.png/626x290bb.webp"
+      ],
+      "version" : "1.0.8",
+      "versionDate" : "2026-03-10",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/apps/snake-io-plus.ipa",
+      "versionDescription" : "Various bug fixes!",
+      "size" : 1200000000,
+      "beta" : false
+    },
+    {
+      "name" : "Stardew Valley",
+      "bundleIdentifier" : "com.chucklefish.stardewvalley",
+      "developerName" : "Kooapps",
+      "subtitle" : "RPG",
+      "localizedDescription" : "",
+      "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7b/db/94/7bdb94f9-a6a1-7975-b719-3b7c84f93644/Placeholder.mill/400x400bb-75.webp",
+      "tintColor" : "49CC48",
+      "category" : "Games",
+      "screenshotURLs" : [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/28/8e/d4/288ed462-d03d-0d34-dda4-1d9aa52638c2/08_resized_6_5_inch.png/626x290bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/66/12/c9/6612c93a-c1ae-71bd-0388-192e3e7b78d0/05_resized_6_5_inch.png/626x290bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/1a/dd/441add77-467e-1545-a28d-514e32b3a97c/04_resized_6_5_inch.png/626x290bb.webp"
+      ],
+      "version" : "16.5.4",
+      "versionDate" : "2026-03-10",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/stardew-valley.ipa",
+      "versionDescription" : "Various bug fixes!",
+      "size" : 1200000000,
+      "beta" : false
+    },
+    {
+      "name" : "NBA 2K25 Arcade Edition",
+      "bundleIdentifier" : "com.2ksports.nba2k25arcade",
+      "developerName" : "Kooapps",
+      "subtitle" : "Run the Neighborhood",
+      "localizedDescription" : "",
+      "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c1/67/90/c167908b-df28-5c6a-1435-8e8b963828ef/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/400x400ia-75.webp",
+      "tintColor" : "49CC48",
+      "category" : "Games",
+      "screenshotURLs" : [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/94/53/d19453cc-2cde-6836-671a-113697fc545b/a558ede2-476a-45b0-8afa-6320aafb0df2_NBA2K25_Arcade_App-Store-Screenshots_2778x1284_EN_1.jpg/626x290bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/bd/f6/0cbdf638-e232-6537-b356-de829c772f03/91fed9d2-2dda-4e6e-b5fd-dedef4d6b15f_NBA2K25_Arcade_App-Store-Screenshots_2778x1284_EN_2.jpg/626x290bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/0d/dd/520ddd00-5d60-d9d4-1dbf-007a6f198294/36cd9d70-5667-45bb-9994-731cfedf7932_NBA2K25_Arcade_App-Store-Screenshots_2778x1284_EN_3.jpg/626x290bb.webp"
+      ],
+      "version" : "1.0.244998106",
+      "versionDate" : "2026-03-10",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/games/nba-2k25-arcade-edition.ipa",
+      "versionDescription" : "Various bug fixes!",
+      "size" : 1200000000,
+      "beta" : false
+    },
+    {
+      "name" : "Spotify",
+      "bundleIdentifier" : "com.spotify.client",
+      "developerName" : "Spotify",
+      "subtitle" : "Songs, Playlists & Audiobooks",
+      "localizedDescription" : "",
+      "iconURL" : "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/2b/17/342b1756-8683-37cb-5147-d220c09151a1/Placeholder.mill/400x400bb-75.webp",
+      "tintColor" : "49CC48",
+      "category" : "Apps",
+      "screenshotURLs" : [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/32/8d/97/328d97d5-1f15-64bb-cd07-9c99caa3df21/IOS_-_6.5_-_S01_-_EN_-_GB.png/460x996bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/a7/41/78a74106-c5ed-407f-016a-0e5ec1828022/IOS_-_6.5_-_S02_-_EN_-_GB.png/460x996bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/b0/10/03b010df-e0f0-a98c-38dd-3fe51a4faa15/IOS_-_6.5_-_S03_-__U005bEnglish__U0028GB_U0029_U005d.png/460x996bb.webp"
+      ],
+      "version" : "9.1.0",
+      "versionDate" : "2026-03-10",
+      "downloadURL" : "https://media.githubusercontent.com/media/atdaniellimon/lemonrepo/refs/heads/main/ipas/apps/Spotify.ipa",
+      "versionDescription" : "Various bug fixes!",
+      "size" : 1200000000,
+      "beta" : false
     }
   ],
   "news" : [
